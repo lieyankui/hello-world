@@ -1,0 +1,8 @@
+target/
+.svn
+.metadata/
+node_modules/
+.settings/
+bin/
+eosdebug/
+.classpath
